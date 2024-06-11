@@ -2,6 +2,9 @@
 
 Rechavista Resort is a static website designed to provide detailed information about the Rechavista Resort. This project was developed during my internship journey and includes various sections to showcase the hotel, its rooms, gallery, and facilities such as the restaurant, swimming pool, and gym. The website is built using HTML, CSS, JavaScript, and Bootstrap.
 
+![Screenshot 2024-06-11 141410](https://github.com/Ruchapurohit/PRODIGY_WD_01/assets/146411434/aa9c4081-a4b2-4330-b9d2-5174bf1b822c)
+
+
 Table of Contents :
 
 - About the Project
